@@ -12,5 +12,6 @@ public class SQRService {
                 }
             }
         }
-        return count;    }
+        return count;
+    }
 }
